@@ -11,7 +11,6 @@ A section has also been added to the polls in the event that you have more than 
 <p>
 <img src="https://github.com/Hamed233/social_network_flutter_app/blob/main/screens/Screenshot_1654024321.png" alt="screen" width="200">
 <img src="https://github.com/Hamed233/social_network_flutter_app/blob/main/screens/Screenshot_1654024323.png" alt="screen" width="200">
-<img src="https://github.com/Hamed233/social_network_flutter_app/blob/main/screens/Screenshot_1663771684.png" alt="screen" width="200">
 <img src="https://github.com/Hamed233/social_network_flutter_app/blob/main/screens/Screenshot_1663771743.png" alt="screen" width="200">
 <img src="https://github.com/Hamed233/social_network_flutter_app/blob/main/screens/Screenshot_11663771771.png" alt="screen" width="200">
 <img src="https://github.com/Hamed233/social_network_flutter_app/blob/main/screens/Screenshot_1663771783.png" alt="screen" width="200">
