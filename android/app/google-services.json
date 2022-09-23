@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "403603634330",
+    "project_id": "savior-aadde",
+    "storage_bucket": "savior-aadde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403603634330:android:54674742e88a306b7d4723",
+        "android_client_info": {
+          "package_name": "com.albashmoparmeg.savior"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403603634330-9p77oq5jv3qa97oq5sdc7mni106dnrt2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.albashmoparmeg.savior",
+            "certificate_hash": "574c51a385079ec7f620f493ce9ce1ff03192664"
+          }
+        },
+        {
+          "client_id": "403603634330-0tj58msp4eq1sbjnr6cofroe6leaqnff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAhpZ1f1PZs0j6ypBboxvNKone5vXyhbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403603634330-0tj58msp4eq1sbjnr6cofroe6leaqnff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
